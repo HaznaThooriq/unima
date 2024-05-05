@@ -2,6 +2,7 @@
 
 int main() {
     int number;
+    int xx;
     std::cout << "Enter an integer: ";
     std::cin >> number;
     
