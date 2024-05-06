@@ -3,6 +3,8 @@
 int main() {
     int number;
 
+    int number2;
+    
     std::cout << "Enter an integer: ";
     std::cin >> number;
     
